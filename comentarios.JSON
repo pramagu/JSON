@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Pepe",
+        "comentario": "Comentario 1"
+    },
+    {
+        "nombre": "Jose",
+        "comentario": "Comentario 2"
+    },
+    {
+        "nombre": "Marta",
+        "comentario": "Comentario 3"
+    },
+    {
+        "nombre": "Antonio",
+        "comentario": "Comentario 4"
+    },
+    {
+        "nombre": "Luis",
+        "comentario": "Comentario 5"
+    },
+    {
+        "nombre": "María",
+        "comentario": "Comentario 6"
+    }
+]
